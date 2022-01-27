@@ -21,3 +21,4 @@ expo start
 ```
 
 To run the application on your mobile device it's recommended to instal Expo Go on your phone and read the QR Code after running the application
+Therefore you can test the application.
