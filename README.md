@@ -20,5 +20,4 @@ In the project's root directory, run the command below to start the application
 expo start
 ```
 
-To run the application on your mobile device it's recommended to instal Expo Go on your phone and read the QR Code after running the application
-Therefore you can test the application.
+To run the application on your mobile device it's recommended to instal Expo Go on your phone and read the QR Code shown after running the command above.
