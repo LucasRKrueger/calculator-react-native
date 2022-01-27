@@ -3,10 +3,11 @@
 ## Pre-requisites
 - Install Expo to run the Application
 - Install VS Code
+- Node JS
 
 ## Usefull Commands
 
-Install Expo
+Command below to Install Expo
 ```sh
 npm install -g expo-cli
 ```
